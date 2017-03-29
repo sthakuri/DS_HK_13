@@ -1,9 +1,9 @@
 # TODO
 - [x] **MART** - Fork the Repo
 - [x] **MART** - Update the Readme
-- [ ] **DICKSON** - Update the Submission Form
-- [ ] **DICKSON** - Update the Tableau Submission Tracker
-- [ ] **DICKSON** - Update the Tableau Schedule Tracker
+- [x] **DICKSON** - Update the Submission Form
+- [x] **DICKSON** - Update the Tableau Submission Tracker
+- [x] **DICKSON** - Update the Tableau Schedule Tracker
 - [ ] **DICKSON** - Update the TA Schedule
 - [ ] **ALEX** - Review and simplify the Project Descriptions
 - [ ] **VIVIAN** - Create the Facebook Group, add us as admins
@@ -20,9 +20,9 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Assignment Submissions
 
-Student projects and assignments can be submitted through the [Submission Form](TODO).
+Student projects and assignments can be submitted through the [Submission Form](https://goo.gl/forms/H2Ffjq5CjVJQsKIe2).
 
-Student progress is tracked through the [Submission Tracker](https://public.tableau.com/views/GA-DS_HK_13-HWSubmission/SubmissionSummary?:embed=y&:display_count=yes&:toolbar=no).
+Student progress is tracked through the [Submission Tracker](https://public.tableau.com/views/GA-DS_HK_13-HWSubmission/SubmissionSummary?:embed=y&:display_count=yes).
 
 ## Schedule
 
@@ -80,5 +80,5 @@ Click here for the [Schedule Dashboard](https://public.tableau.com/views/GA-DS_H
 
 ## Facebook
 
-You've all been invited to use [Facebook](TODO) for updates and shares during class and the day.  Please consider this the primary way to contact other students. Instructors will be monitoring the Facebook group during class and office hours to handle questions.
+You've all been invited to use [Facebook](https://www.facebook.com/groups/1899449470301523/) for updates and shares during class and the day.  Please consider this the primary way to contact other students. Instructors will be monitoring the Facebook group during class and office hours to handle questions.
 
