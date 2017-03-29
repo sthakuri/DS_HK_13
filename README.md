@@ -1,14 +1,14 @@
 # TODO
-- [x] MART - Fork the Repo
-- [x] MART - Update the Readme
-- [ ] DICKSON - Update the Submission Form
-- [ ] DICKSON - Update the Tableau Submission Tracker
-- [ ] DICKSON - Update the Tableau Schedule Tracker
-- [ ] DICKSON - Update the TA Schedule
-- [ ] ALEX - Review and simplify the Project Descriptions
-- [ ] VIVIAN - Create the Facebook Group
-- [ ] MART - Fix all TODO links in `readme.md`
-- [ ] MART - Remove this list :)
+- [x] **MART** - Fork the Repo
+- [x] **MART** - Update the Readme
+- [ ] **DICKSON** - Update the Submission Form
+- [ ] **DICKSON** - Update the Tableau Submission Tracker
+- [ ] **DICKSON** - Update the Tableau Schedule Tracker
+- [ ] **DICKSON** - Update the TA Schedule
+- [ ] **ALEX** - Review and simplify the Project Descriptions
+- [ ] **VIVIAN** - Create the Facebook Group, add us as admins
+- [ ] **MART** - Fix all TODO links in `readme.md`
+- [ ] **MART** - Remove this list :)
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DS_HK_13](https://github.com/ga-students/DS_HK_13)
 
