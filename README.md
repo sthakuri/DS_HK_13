@@ -41,8 +41,8 @@ Student progress is tracked through the [Submission Tracker](https://public.tabl
 | 4 | 17-05-18 | Mart | [Intro to Classification](./lessons/lesson-08) | **[Final Project 2](./projects/final-projects/02-experiment-writeup)** | **[Final Project 1](./projects/final-projects/01-lightning-talk)** |
 | 5 | 17-05-23 | Dickson | [Intro to Logistic Regression](./lessons/lesson-09) | **[Unit Project 4](./project./projects/unit-projects/project-4)** | |
 | 5 | 17-05-25 | Dickson | [Decision Trees / Random Forest](./lessons/lesson-10) | | **[Unit Project 3](./project./projects/unit-projects/project-3)** |
-| 6 | 17-06-01 | Mart | [Communicating Model Results](./lessons/lesson-11) | | [Install Spacy](https://spacy.io/docs/usage/) |
-| 6 | 17-06-02 | Dickson | [NLP with Classification](./lessons/lesson-12) | | **[Unit Project 4](./project./projects/unit-projects/project-4)** |
+| 6 | 17-05-30 | Mart | [Communicating Model Results](./lessons/lesson-11) | | [Install Spacy](https://spacy.io/docs/usage/) |
+| 6 | 17-06-01 | Dickson | [NLP with Classification](./lessons/lesson-12) | | **[Unit Project 4](./project./projects/unit-projects/project-4)** |
 | | | | **Unit 3 - Data Science in the Real World** | | |
 | 7 | 17-06-06 | Mart | [Feature Engineering (Clustering)](./lessons/lesson-13) | | |
 | 7 | 17-06-08 | Dickson | [Feature Engineering (Dimensional Reduction)](./lessons/lesson-14) | **[Final Project 3](./projects/final-projects/03-exploratory-analysis)** | **[Final Project 2](./projects/final-projects/02-experiment-writeup)** |
