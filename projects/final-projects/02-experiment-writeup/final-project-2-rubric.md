@@ -29,18 +29,4 @@ Notes:
 ---
 
 ## Score:
-Based on the requirements, you can earn a maximum of  **18**  points on this project. 
-
-#### Your total score is: **#**
-
-
-
----
-
-## PROGRESS REPORT
-**Student Check-in:**
-
-|HIGHLIGHTS|GROWTH OPPORTUNITIES|DEVELOPMENT PLAN|
-|---|---|---|
-| | | |
-
+Based on the requirements, you can earn a maximum of  **18**  points on this project.

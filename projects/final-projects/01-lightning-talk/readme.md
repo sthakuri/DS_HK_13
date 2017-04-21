@@ -3,11 +3,11 @@
 
 ### PROMPT
 
-In the field of data science, projects are practical. A good project is manageable and relates to your working domain; however, it can be hard to filter and scope good ideas when you're new to a field. That's where Part 1 of your final project comes in. 
+In the field of data science, projects are practical. A good project is manageable and relates to your working domain; however, it can be hard to filter and scope good ideas when you're new to a field. That's where Part 1 of your final project comes in.
 
 One of the best ways to test expectations and get feedback is to share your ideas with others. For part one of your final project, you'll come up with a few different ideas you could potentially solve with data, then present them in small groups to the class.
 
-You'll get the opportunity to get immediate feedback and guidance in order to help you choose an awesome final project idea. Keep in mind that it's important to run though this ideation process a few times with different ideas to clarify what your project should focus on. 
+You'll get the opportunity to get immediate feedback and guidance in order to help you choose an awesome final project idea. Keep in mind that it's important to run though this ideation process a few times with different ideas to clarify what your project should focus on.
 
 **Goal**: Prepare a one-minute lightning talk that covers 3 potential project topics.
 
@@ -31,10 +31,9 @@ You'll get the opportunity to get immediate feedback and guidance in order to he
     - High level data points can help show the "improvement" scope that's available
     - Cite similar/previous work that will better inform your strategy that can be taken
 
-- **Submission:**	
+- **Submission:**
     * Present materials in class
-    * Submit presentation to instructor via our [Submission Form](https://docs.google.com/a/type.hk/forms/d/e/1FAIpQLSfSWM7Pe-lBUVLmlpNUDZ-5GAY0nu52H4hWtdq_uiNg3ZEjNg/viewform?c=0&w=1).
----
+    * Submit presentation to instructor before 18 May 2017 via our [Submission Form](https://goo.gl/forms/H2Ffjq5CjVJQsKIe2).
 
 ### TIMELINE
 

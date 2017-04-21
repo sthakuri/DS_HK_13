@@ -16,7 +16,6 @@ In this assignment, you will explore and visualize your initial analysis in orde
 #### Exploratory Analysis Writeup
 
 - **Requirements:**
-   * Review the data set and project with an EIR during office hours.
    * Practice importing (potentially unformatted) data into clean matrices|data frames, and if necessary, export into a form that makes sense (text files or a database, for example).
    * Explore the mathematical properties and visualize data through a python visualization tool (matplotlib and seaborn)
    * Provide insight about the data set and any impact on a hypothesis.
@@ -34,7 +33,7 @@ In this assignment, you will explore and visualize your initial analysis in orde
    - Try experimenting with other visualization languages; python/pandas-highcharts, shiny/r, or for a real challenge, d3 on its own. Interactive data analysis opens the doors for others to easily interpret your work and explore the data themselves!
 
 - **Submission:**
-   - 15 Mar 2017
+   - 15 June 2017 via our [Submission Form](https://goo.gl/forms/H2Ffjq5CjVJQsKIe2)
 
 ---
 

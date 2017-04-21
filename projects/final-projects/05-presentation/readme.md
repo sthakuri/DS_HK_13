@@ -6,11 +6,11 @@ This is it! It's presentation time.
 
 Whether during an interview or as part of a job, you will frequently have to present your findings to business partners and other interested parties - many of whom won't know anything about data science. That's why it's important to practice communicating your work clearly and effectively - for any audience.
 
-Your goal is to create a 10 minute presentation that guides a non-technical audience through your problem, data, hypothesis, findings, and results. You should already have the analytical work complete, so now it's time to clean up and clarify your findings. 
+Your goal is to create a 10 minute presentation that guides a non-technical audience through your problem, data, hypothesis, findings, and results. You should already have the analytical work complete, so now it's time to clean up and clarify your findings.
 
 Create a detailed 10-20 slide deck or interactive demo that explains your data, visualizes your model, describes your approach, articulates strengths and weaknesses, and presents specific recommendations. Plan for a 10 minute presentation with 1-2 minutes of QA; be prepared to explain and defend your model to an inquisitive audience!
 
-**Goal:** A detailed 10-20 slide presentation deck that relates your data, model, and findings to a non-technical audience.
+**Goal:** A detailed 10-20 slide presentation deck that relates your data, model, and findings to a **non-technical** audience.
 
 ---
 
@@ -63,7 +63,7 @@ A 10 to 20 slide deck consisting of:
   * An Acknowledgements Slide is always a good idea :)
   * You might also include a Citations Slide, if necessary
 
-**Submission:**	
+**Submission:**
 
   - [Submission Form](https://docs.google.com/a/type.hk/forms/d/e/1FAIpQLSfSWM7Pe-lBUVLmlpNUDZ-5GAY0nu52H4hWtdq_uiNg3ZEjNg/viewform?c=0&w=1)
 
@@ -88,16 +88,16 @@ Your project will be assessed using the following standards:
 1. Present
 2. Professional Development
 
-#### Rubric: [Click here for the complete rubric](./final-project-5-rubric.md). 
+#### Rubric: [Click here for the complete rubric](./final-project-5-rubric.md).
 
 Requirements for these standards will be assessed using the scale below:
 
-    Score | Expectations
-    ----- | ------------
-    **0** | _Incomplete._
-    **1** | _Does not meet expectations._
-    **2** | _Meets expectations, good job!_
-    **3** | _Exceeds expectations, you wonderful creature, you!_
+  |  Score | Expectations |
+  |  ----- | ------------ |
+  |  **0** | _Incomplete._ |
+  |  **1** | _Does not meet expectations._ |
+  |  **2** | _Meets expectations, good job!_ |
+  |  **3** | _Exceeds expectations, you wonderful creature, you!_ |
 
 While your total score may serve as a helpful gauge of whether you've met project goals, __specific standards scores are more important__ since they can show you where to focus your efforts in the future!
 
@@ -105,7 +105,7 @@ While your total score may serve as a helpful gauge of whether you've met projec
 
 ### RESOURCES
 
-#### Starter Code 
+#### Starter Code
 
 - Refer to the [presentation template](../02-experiment-writeup/project-design-template.md) as a blueprint for how to organize your work.
 

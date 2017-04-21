@@ -52,17 +52,4 @@ Acceptable performance for this standard is based on how well you've applied spe
 ---
 
 ## Score:
-Based on all requirements, you can earn a maximum of  **36**  points on this project. 
-
-#### Your total score is: **#**
-
-
----
-
-## PROGRESS REPORT
-**Student Check-in:**
-
-|HIGHLIGHTS|GROWTH OPPORTUNITIES|DEVELOPMENT PLAN|
-|---|---|---|
-| | | |
-
+Based on all requirements, you can earn a maximum of  **36**  points on this project.

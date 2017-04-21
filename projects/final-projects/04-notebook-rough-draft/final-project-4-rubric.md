@@ -30,18 +30,4 @@ Notes: For this assignment, you will also need to review your data set and proje
 ---
 
 ## Score:
-Based on the requirements, you can earn a maximum of  **21**  points on this project. 
-
-#### Your total score is: **#**
-
-
-
----
-
-## PROGRESS REPORT
-**Student Check-in:**
-
-|HIGHLIGHTS|GROWTH OPPORTUNITIES|DEVELOPMENT PLAN|
-|---|---|---|
-| | | |
-
+Based on the requirements, you can earn a maximum of  **21**  points on this project.

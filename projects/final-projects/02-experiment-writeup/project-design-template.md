@@ -10,7 +10,7 @@ Follow this as a guide to completing the project design writeup. The questions f
 
 ### Datasets
 * Description of data set available, at the field level (see table)
-* If from an API, include a sample return (this is usually included in API documentation!) (if doing this in markdown, use the javacription code tag)
+* If from an API, include a sample return (this is usually included in API documentation!) (if doing this in markdown, use the javascript code tag)
 
 ### Domain knowledge
 * What experience do you already have around this area?
@@ -36,4 +36,3 @@ Follow this as a guide to completing the project design writeup. The questions f
 * How complicated does your model have to be?
 * How successful does your project have to be in order to be considered a "success"?
 * What will you do if the project is a bust (this happens! but it shouldn't here)?
-

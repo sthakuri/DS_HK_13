@@ -4,7 +4,7 @@
 
 Project outlines are a valuable resource when working with data projects, as they help keep your project organized.  A well constructed outline can clarify your goals and serve as a checklist when conducting research and analysis.
 
-For this project, you will need to complete a problem statement and research design outline for one of the three lightning talks you designed during pt. 1. This will serve as the starting point for your analysis. Make sure to include a specific aim and hypthesis, well-defined risks and assumptions, and clearly articulated goals and success metrics. 
+For this project, you will need to complete a problem statement and research design outline for one of the three lightning talks you designed during pt. 1. This will serve as the starting point for your analysis. Make sure to include a specific aim and hypothesis, well-defined risks and assumptions, and clearly articulated goals and success metrics.
 
 Remember, completing this task earlier will give you more chances to iterate and improve!
 
@@ -20,7 +20,7 @@ Remember, completing this task earlier will give you more chances to iterate and
     - An outline of any potential methods and models
     - Detailed explanation of extant data available (ie: build a data dictionary or link to pre-built data dictionaries)
     - Describe any outstanding questions, assumptions, risks, caveats
-    - Demonstrate domain knowledge, including specific features or relevant benchmarks from similar projects 
+    - Demonstrate domain knowledge, including specific features or relevant benchmarks from similar projects
     - Define your goals and criteria, in order to explain what success looks like
 
 - **Bonus:**
@@ -28,7 +28,7 @@ Remember, completing this task earlier will give you more chances to iterate and
     - "Convert" your goal metric from a statistical one (like Mean Squared Error) and tie it to something non-data people can understand, like a cost/benefit analysis, etc.
 
 - **Submission:**	 
-  - 08 Mar 2017  
+  - 8 June 2017 2017 via our [Submission Form](https://goo.gl/forms/H2Ffjq5CjVJQsKIe2)
 
 ---
 

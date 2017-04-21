@@ -2,11 +2,11 @@
 
 ### PROMPT
 
-Our goal for this project is to develop a working technical document that can be shared amongst your peers. Similar to any other technical project, it should surface your work and approach in a human readable format. Your project should push the reader to ask for more insightful questions, and avoid issues like, "what does this line of code do?" 
+Our goal for this project is to develop a working technical document that can be shared amongst your peers. Similar to any other technical project, it should surface your work and approach in a human readable format. Your project should push the reader to ask for more insightful questions, and avoid issues like, "what does this line of code do?"
 
-From a presentation perspective, think about the machine learning applications of your data. Use your model to display correlations, feature importance, and unexplained variance. Document your research with a summary, explaining your modeling approach as well as the strengths and weaknesses of any variables in the process. 
+From a presentation perspective, think about the machine learning applications of your data. Use your model to display correlations, feature importance, and unexplained variance. Document your research with a summary, explaining your modeling approach as well as the strengths and weaknesses of any variables in the process.
 
-You should provide insight into your analysis, using best practices like cross validation or any applicable prediction metrics (ex: MSE for regression; Accuracy/AUC for classification). Remember, there are many metrics to choose from, so be sure to explain why the one you've used is reasonable for your problem. 
+You should provide insight into your analysis, using best practices like cross validation or any applicable prediction metrics (ex: MSE for regression; Accuracy/AUC for classification). Remember, there are many metrics to choose from, so be sure to explain why the one you've used is reasonable for your problem.
 
 Look at how your model performs compared to a dummy model, and articulate the benefit gained by using your specific model to solve this problem. Finally, build visualizations that explain outliers and the relationships of your predicted parameter and independent variables. You might also identify areas where new data could help improve the model in the future.
 
@@ -20,7 +20,7 @@ Look at how your model performs compared to a dummy model, and articulate the be
 
 - **Requirements:**
   - Create an iPython Notebook with code, visualizations, and markdown
-  - Summarize your exploratory data analysis. 
+  - Summarize your exploratory data analysis.
   - Explain your choice of validation and prediction metrics.
   - Frame source code so it enhances your notebook explanations.
   - Include a separate python module with helper functions
@@ -31,8 +31,8 @@ Look at how your model performs compared to a dummy model, and articulate the be
 - **Bonus:**
     - Many modeling approaches are all about fine-tuning the algorithm parameters and trying to find a specific value. Show how you optimized for this value, and the costs/benefits of doing so.
 
-- **Submission:**	
-  - 22 March 2017
+- **Submission:**
+  - 22 June 2017 via our [Submission Form](https://goo.gl/forms/H2Ffjq5CjVJQsKIe2)
 
 ---
 
@@ -53,7 +53,7 @@ Your project will be assessed using the following standards:
 
 1. Refine the Data
 
-#### Rubric: [Click here for the complete rubric](./final-project-4-rubric.md). 
+#### Rubric: [Click here for the complete rubric](./final-project-4-rubric.md).
 
 Requirements for these standards will be assessed using the scale below:
 
