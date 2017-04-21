@@ -33,8 +33,8 @@ Student progress is tracked through the [Submission Tracker](https://public.tabl
 | 1 | 17-04-25 | All | [What is Data Science](./lessons/lesson-01) |**[Unit Project 1](./projects/unit-projects/project-1)** and **[Final Project 1](./projects/final-projects/01-lightning-talk)**| |
 | 1 | 17-04-27 | Alex | [Research Design and _pandas_](./lessons/lesson-02) | | |
 | 2 | 17-05-02 | Alex | [Statistics Fundamentals pt. 1](./lessons/lesson-03) | **[Unit Project 2](./projects/unit-projects/project-2)** | **[Unit Project 1](./projects/unit-projects/project-1)** |
-| 2 | 17-05-04 | Alex | [Statistics Fundamentals pt. 2](./lessons/lesson-04) | | **[Unit Project 2](./projects/unit-projects/project-2)** |
-| 3 | 17-05-09 | Mart | [Exploratory Data Analysis](./lessons/lesson-05) | **[Unit Project 3](./project./projects/unit-projects/project-3)** | |
+| 2 | 17-05-04 | Alex | [Statistics Fundamentals pt. 2](./lessons/lesson-04) | **[Unit Project 3](./project./projects/unit-projects/project-3)** | |
+| 3 | 17-05-09 | Mart | [Exploratory Data Analysis](./lessons/lesson-05) | | **[Unit Project 2](./projects/unit-projects/project-2)** |
 | | | | **Unit 2 - Foundations of Data Modeling** | | |
 | 3 | 17-05-11 | Alex | [Introduction to Linear Regression](./lessons/lesson-06) | | |
 | 4 | 17-05-16 | Alex | [Evaluating Model Fix](./lessons/lesson-07) | | |
@@ -81,4 +81,3 @@ Click here for the [Schedule Dashboard](https://public.tableau.com/views/GA-DS_H
 ## Facebook
 
 You've all been invited to use [Facebook](https://www.facebook.com/groups/1899449470301523/) for updates and shares during class and the day.  Please consider this the primary way to contact other students. Instructors will be monitoring the Facebook group during class and office hours to handle questions.
-

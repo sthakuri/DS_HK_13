@@ -15,10 +15,10 @@ Welcome to Data Science! In this first project you will create a framework to sc
 
 #### 1. Completed iPython Notebook
 
-**Tip: Copy and fill-in answers within the starter notebook (https://github.com/ga-students/DS_HK_12/blob/gh-pages/projects/unit-projects/project-1/starter-code/project1-starter.ipynb)**
+**Tip: Copy and fill-in answers within the starter notebook (https://github.com/ga-students/DS_HK_13/blob/gh-pages/projects/unit-projects/project-1/starter-code/project1-starter.ipynb)**
 
 - **Requirements:**
-    1. Identify features of the dataset, including the outcome and covariates/predictors
+    1. Identify features of the dataset, including the outcome (the variable you want to predict) and covariates/predictors
     2. Create a data dictionary with classification of available variables
     3. Write a high quality problem statement
     4. State the risks and assumptions of your data
@@ -29,11 +29,12 @@ Welcome to Data Science! In this first project you will create a framework to sc
     - Articulate the risks and assumptions of this alternative model
 
 - **Submission:**
-    - Due Midnight 23 Jan 2017 via our [Submission Form](https://docs.google.com/a/type.hk/forms/d/e/1FAIpQLSfSWM7Pe-lBUVLmlpNUDZ-5GAY0nu52H4hWtdq_uiNg3ZEjNg/viewform?c=0&w=1)
+    - Due Midnight 02 May 2017 via our [Submission Form](https://goo.gl/forms/H2Ffjq5CjVJQsKIe2)
 
 #### 2. Completed Lesson 3 Lab:
 
-Submit a completed copy of the in-class lab for lesson 3: https://github.com/ga-students/DS_HK_12/blob/master/lessons/lesson-03/starter-code/starter-code-3.ipynb
+Submit a completed copy of the in-class lab for lesson 3: https://github.com/ga-students/DS_HK_13/blob/master/lessons/lesson-03/starter-code/starter-code-3.ipynb
+This code will be made available before lesson 3.
 
 ---
 
@@ -51,7 +52,7 @@ Your project will be assessed using the following standards:
 
 1. Identify the Problem
 
-#### Rubric: [Click here for the complete rubric](./project1-rubric.md). 
+#### Rubric: [Click here for the complete rubric](./project1-rubric.md).
 
 Requirements for these standards will be assessed using the scale below:
 
@@ -83,15 +84,15 @@ For this project we will be using an iPython notebook. Notebooks are a handy way
 
 * Open the [starter code instructions](./starter-code/project1-starter.ipynb) in iPython notebook.
 
-#### Sample Deliverables 
+#### Sample Deliverables
 Check out the example notebook in our starter code, which includes a data dictionary and responses to questions. Wonder how to format your notebook the same way? Simply double-click on any section to view the markdown.
 
-[Example responses](https://github.com/ga-students/DS_HK_12/blob/gh-pages/projects/unit-projects/project-1/starter-code/unit-project-1-sample.ipynb)
+[Example responses](https://github.com/ga-students/DS_HK_13/blob/gh-pages/projects/unit-projects/project-1/starter-code/unit-project-1-sample.ipynb)
 
 ![Example Notebook](./assets/images/Example_ipynb.jpg)
 
 
-#### Suggestions for Getting Started 
+#### Suggestions for Getting Started
 
 - Get used to the iPython Notebook layout. Play around with keyboard shortcuts.
 - Try out basic markdown for commonly used formats; look up commands for headers, bold, italic, tables.
