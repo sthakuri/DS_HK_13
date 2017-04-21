@@ -17,13 +17,13 @@ In this project, you will perform a logistic regression on the admissions data w
     - Complete a logistic regression using stats models and interpret your findings
     - Calculate predicted probabilities
 
-- **Bonus:** 
+- **Bonus:**
     - Plot the predicted probabilities
     - Brainstorm ways to improve your analysis
     - Use KNN as a classifier and compare your results to your results from when you used Logistic Regression.
 
 - **Submission:**
-    - Due on 22 Feb 2017
+    - Due on 25 May 2017 via our [Submission Form](https://goo.gl/forms/H2Ffjq5CjVJQsKIe2)
 
 ---
 
@@ -41,7 +41,7 @@ Your project will be assessed using the following standards:
 
 1. Refine the Data
 
-#### Rubric: [Click here for the complete rubric](./project3-rubric.md). 
+#### Rubric: [Click here for the complete rubric](./project3-rubric.md).
 
 Requirements for these standards will be assessed using the scale below:
 
