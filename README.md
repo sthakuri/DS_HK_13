@@ -4,9 +4,9 @@
 - [x] **DICKSON** - Update the Submission Form
 - [x] **DICKSON** - Update the Tableau Submission Tracker
 - [x] **DICKSON** - Update the Tableau Schedule Tracker
-- [ ] **DICKSON** - Update the TA Schedule
+- [x] **DICKSON** - Update the TA Schedule (removed)
 - [ ] **ALEX** - Review and simplify the Project Descriptions
-- [ ] **VIVIAN** - Create the Facebook Group, add us as admins
+- [x] **VIVIAN** - Create the Facebook Group, add us as admins
 - [ ] **MART** - Fix all TODO links in `readme.md`
 - [ ] **MART** - Remove this list :)
 
@@ -56,19 +56,6 @@ Student progress is tracked through the [Submission Tracker](https://public.tabl
 *(Syllabus last updated on 2016-06-07)*
 
 Click here for the [Schedule Dashboard](https://public.tableau.com/views/GA-DS_HK_13-Schedule/Schedule_Dashboard?:embed=y&:display_count=no&:toolbar=no).
-
-## Office Hours
-
-| Week | Date | Day of Week | Instructor | Location | Status |
-|:---:|:---:|:---:|:---|:---|:---|
-| 1  | 2017-0X-XX | T.B.D.  | Dickson | TESLA on 9/F | - |
-| 2  | 2017-0X-XX | T.B.D.  | Dickson | TESLA on 9/F | - |
-| 4  | 2017-0X-XX | T.B.D.  | Dickson | TESLA on 9/F | - |
-| 6  | 2017-0X-XX | T.B.D.  | Dickson | TESLA on 9/F | - |
-| 8  | 2017-0X-XX | T.B.D.  | Dickson | TESLA on 9/F | - |
-| 9  | 2017-0X-XX | T.B.D.  | Dickson | TESLA on 9/F | - |
-
-*(Office Hours Schedule last updated on 2017-0X-XX)*
 
 ## Your Team
 
