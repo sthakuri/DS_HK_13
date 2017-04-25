@@ -1,15 +1,3 @@
-# TODO
-- [x] **MART** - Fork the Repo
-- [x] **MART** - Update the Readme
-- [x] **DICKSON** - Update the Submission Form
-- [x] **DICKSON** - Update the Tableau Submission Tracker
-- [x] **DICKSON** - Update the Tableau Schedule Tracker
-- [x] **DICKSON** - Update the TA Schedule (removed)
-- [ ] **ALEX** - Review and simplify the Project Descriptions
-- [x] **VIVIAN** - Create the Facebook Group, add us as admins
-- [ ] **MART** - Fix all TODO links in `readme.md`
-- [ ] **MART** - Remove this list :)
-
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DS_HK_13](https://github.com/ga-students/DS_HK_13)
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/hong-kong) in Hong Kong (Tuesday, 25 April 2017 - Thursday, 29 June 2017)
