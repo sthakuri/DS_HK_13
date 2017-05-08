@@ -23,7 +23,7 @@ Student progress is tracked through the [Submission Tracker](https://public.tabl
 | 2 | 17-05-02 | Alex | [Statistics Fundamentals pt. 1](./lessons/lesson-03) | **[Unit Project 2](./projects/unit-projects/project-2)** | **[Unit Project 1](./projects/unit-projects/project-1)** |
 | 2 | 17-05-04 | Alex | [Statistics Fundamentals pt. 2](./lessons/lesson-04) | **[Unit Project 3](./project./projects/unit-projects/project-3)** | |
 | 3 | 17-05-09 | Mart | [Exploratory Data Analysis](./lessons/lesson-05) | | **[Unit Project 2](./projects/unit-projects/project-2)** |
-| | | | **Unit 2 - Foundations of Data Modeling** | | |
+| | | | **Unit 2 - Foundations of Data Modelling** | | |
 | 3 | 17-05-11 | Alex | [Introduction to Linear Regression](./lessons/lesson-06) | | |
 | 4 | 17-05-16 | Alex | [Evaluating Model Fix](./lessons/lesson-07) | | |
 | 4 | 17-05-18 | Mart | [Intro to Classification](./lessons/lesson-08) | **[Final Project 2](./projects/final-projects/02-experiment-writeup)** | **[Final Project 1](./projects/final-projects/01-lightning-talk)** |
