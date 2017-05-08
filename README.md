@@ -10,7 +10,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 Student projects and assignments can be submitted through the [Submission Form](https://goo.gl/forms/H2Ffjq5CjVJQsKIe2).
 
-Student progress is tracked through the [Submission Tracker](https://public.tableau.com/views/GA-DS_HK_13-HWSubmission/SubmissionSummary?:embed=y&:display_count=yes).
+Student progress is tracked through the [Submission Tracker](https://public.tableau.com/profile/droste.hk4081#!/vizhome/GA-DS_HK_13-HWSubmission_0/SubmissionSummary?:embed=y&:display_count=yes).
 
 ## Schedule
 
