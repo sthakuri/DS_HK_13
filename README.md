@@ -21,19 +21,19 @@ Student progress is tracked through the [Submission Tracker](https://public.tabl
 | 1 | 17-04-25 | All | [What is Data Science](./lessons/lesson-01) |**[Unit Project 1](./projects/unit-projects/project-1)** and **[Final Project 1](./projects/final-projects/01-lightning-talk)**| |
 | 1 | 17-04-27 | Alex | [Research Design and _pandas_](./lessons/lesson-02) | | |
 | 2 | 17-05-02 | Alex | [Statistics Fundamentals pt. 1](./lessons/lesson-03) | **[Unit Project 2](./projects/unit-projects/project-2)** | **[Unit Project 1](./projects/unit-projects/project-1)** |
-| 2 | 17-05-04 | Alex | [Statistics Fundamentals pt. 2](./lessons/lesson-04) | **[Unit Project 3](./project./projects/unit-projects/project-3)** | |
+| 2 | 17-05-04 | Alex | [Statistics Fundamentals pt. 2](./lessons/lesson-04) | **[Unit Project 3](./projects/unit-projects/project-3)** | |
 | 3 | 17-05-09 | Mart | [Exploratory Data Analysis](./lessons/lesson-05) | | **[Unit Project 2](./projects/unit-projects/project-2)** |
 | | | | **Unit 2 - Foundations of Data Modelling** | | |
 | 3 | 17-05-11 | Alex | [Introduction to Linear Regression](./lessons/lesson-06) | | |
 | 4 | 17-05-16 | Alex | [Evaluating Model Fix](./lessons/lesson-07) | | |
 | 4 | 17-05-18 | Mart | [Intro to Classification](./lessons/lesson-08) | **[Final Project 2](./projects/final-projects/02-experiment-writeup)** | **[Final Project 1](./projects/final-projects/01-lightning-talk)** |
 | 5 | 17-05-23 | Dickson | [Intro to Logistic Regression](./lessons/lesson-09) | **[Unit Project 4](./project./projects/unit-projects/project-4)** | |
-| 5 | 17-05-25 | Dickson | [Decision Trees / Random Forest](./lessons/lesson-10) | | **[Unit Project 3](./project./projects/unit-projects/project-3)** |
+| 5 | 17-05-25 | Dickson | [Decision Trees / Random Forest](./lessons/lesson-10) | ||
 | 6 | 17-05-30 | Mart | [Communicating Model Results](./lessons/lesson-11) | | [Install Spacy](https://spacy.io/docs/usage/) |
-| 6 | 17-06-01 | Dickson | [NLP with Classification](./lessons/lesson-12) | | **[Unit Project 4](./project./projects/unit-projects/project-4)** |
+| 6 | 17-06-01 | Dickson | [NLP with Classification](./lessons/lesson-12) | | |
 | | | | **Unit 3 - Data Science in the Real World** | | |
 | 7 | 17-06-06 | Mart | [Feature Engineering (Clustering)](./lessons/lesson-13) | | |
-| 7 | 17-06-08 | Dickson | [Feature Engineering (Dimensional Reduction)](./lessons/lesson-14) | **[Final Project 3](./projects/final-projects/03-exploratory-analysis)** | **[Final Project 2](./projects/final-projects/02-experiment-writeup)** |
+| 7 | 17-06-08 | Dickson | [Feature Engineering (Dimensional Reduction)](./lessons/lesson-14) | **[Final Project 3](./projects/final-projects/03-exploratory-analysis)** | **[Final Project 2](./projects/final-projects/02-experiment-writeup)** and **[Unit Project 3](./projects/unit-projects/project-3)** and **[Unit Project 4](./projects/unit-projects/project-4)** |
 | 8 | 17-06-13 | Alex | [Time Series Data](./lessons/lesson-15) | | |
 | 8 | 17-06-15 | Alex | [Modelling Time Series Data](./lessons/lesson-16) | **[Final Project 4](./projects/final-projects/04-notebook-rough-draft)** | **[Final Project 3](./projects/final-projects/03-exploratory-analysis)** |
 | 9 | 17-06-20 | Mart | [Data Science Pipelines](./lessons/lesson-17) | | |
